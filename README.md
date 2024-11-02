@@ -2,8 +2,6 @@
 
 Welcome to my GitHub! I am a passionate **Software Engineer** with a focus on **Systems** and **Machine Learning**. Currently, I'm honing my skills in **C++**, **Python**, and much more. I'm studying Computer Science and Business Administration at the **University of Michigan** with a minor in **Physics**. 🚀
 
-![GitHub Header](https://your-image-url.com/header.png)
-
 ---
 
 ## 💡 About Me
