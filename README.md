@@ -54,18 +54,17 @@ I'm constantly improving my expertise in **Advanced Operating Systems**, **Machi
 > **Software Engineer** | Python, Flask  
 > Built a scalable search engine using **TF-IDF** and **PageRank**, with a service-oriented architecture for **dynamic page scaling**.
 
+**My repositories are private please reach out to me at egilic@umich.edu if you would like to learn more about these projects!
 ---
 
 ## 📈 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=egilic&show_icons=true&theme=radical)
 
 ## 📫 Get in Touch
 
 - **Email**: egilic@umich.edu
-- **LinkedIn**: [linkedin.com/in/edin-gilic](https://linkedin.com/in/edin-gilic)
-- **Portfolio**: [yourwebsite.com](https://yourwebsite.com)
+- **LinkedIn**: [linkedin.com/in/edin-gilic/](https://linkedin.com/in/edin-gilic/)
+- **Portfolio**: Coming soon...
 
 ---
-
-![Footer](https://your-image-url.com/footer.png)
