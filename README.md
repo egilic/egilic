@@ -44,7 +44,7 @@ I'm constantly improving my expertise in **Advanced Operating Systems**, **Machi
 
 ### 🧠 [PupClassifier](https://github.com/your-username/pupclassifier)
 > **Machine Learning Engineer** | Python, PyTorch, Pandas, Scikit-Learn  
-> Developed deep learning models to classify dog breeds with **~90% accuracy** using **CNNs** and **Vision Transformers**.
+> Developed deep learning models to classify dog breeds using **CNNs** and **Vision Transformers**.
 
 ### 🧑‍💻 [Memory Manager](https://github.com/your-username/memory-manager)
 > **Systems Engineer** | C++, Valgrind, GDB  
