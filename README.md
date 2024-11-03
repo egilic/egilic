@@ -42,15 +42,15 @@ I'm constantly improving my expertise in **Advanced Operating Systems**, **Machi
 
 ## Project Highlights
 
-### [PupClassifier](https://github.com/your-username/pupclassifier)
+### [PupClassifier]()
 > **Machine Learning Engineer** | Python, PyTorch, Pandas, Scikit-Learn  
 > Developed deep learning models to classify dog breeds using **CNNs** and **Vision Transformers**.
 
-### [Memory Manager](https://github.com/your-username/memory-manager)
+### [Memory Manager]()
 > **Systems Engineer** | C++, Valgrind, GDB  
 > Designed a custom memory manager with **swap** and **file-backed virtual memory**. Enhanced efficiency with **copy-on-write** and **clock replacement algorithms**.
 
-### [Scalable Search Engine](https://github.com/your-username/search-engine)
+### [Scalable Search Engine]()
 > **Software Engineer** | Python, Flask  
 > Built a scalable search engine using **TF-IDF** and **PageRank**, with a service-oriented architecture for **dynamic page scaling**.
 
