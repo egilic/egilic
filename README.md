@@ -1,10 +1,10 @@
-# 👋 Hello, world! I'm Edin Gilic
+# Hello, world! I'm Edin Gilic
 
 Welcome to my GitHub! I am a passionate **Software Engineer** with a focus on **Systems** and **Machine Learning**. Currently, I'm honing my skills in **C++**, **Python**, and much more. I'm studying Computer Science and Business Administration at the **University of Michigan** with a minor in **Physics**. 🚀
 
 ---
 
-## 💡 About Me
+## About Me
 
 - **Education**: Pursuing a dual degree in Computer Science (BSE) and Business (BBA)
 - **Languages**: Fluent in English and Albanian, proficient in Croatian and Spanish
@@ -12,7 +12,7 @@ Welcome to my GitHub! I am a passionate **Software Engineer** with a focus on **
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 - **Languages**: 
   ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white) 
@@ -34,23 +34,23 @@ Welcome to my GitHub! I am a passionate **Software Engineer** with a focus on **
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 I'm constantly improving my expertise in **Advanced Operating Systems**, **Machine Learning Algorithms**, and **Computer Architecture**. I enjoy tackling complex problems and building systems that push the boundaries of modern computing.
 
 ---
 
-## 💼 Project Highlights
+## Project Highlights
 
-### 🧠 [PupClassifier](https://github.com/your-username/pupclassifier)
+### [PupClassifier](https://github.com/your-username/pupclassifier)
 > **Machine Learning Engineer** | Python, PyTorch, Pandas, Scikit-Learn  
 > Developed deep learning models to classify dog breeds using **CNNs** and **Vision Transformers**.
 
-### 🧑‍💻 [Memory Manager](https://github.com/your-username/memory-manager)
+### [Memory Manager](https://github.com/your-username/memory-manager)
 > **Systems Engineer** | C++, Valgrind, GDB  
 > Designed a custom memory manager with **swap** and **file-backed virtual memory**. Enhanced efficiency with **copy-on-write** and **clock replacement algorithms**.
 
-### 🕸️ [Scalable Search Engine](https://github.com/your-username/search-engine)
+### [Scalable Search Engine](https://github.com/your-username/search-engine)
 > **Software Engineer** | Python, Flask  
 > Built a scalable search engine using **TF-IDF** and **PageRank**, with a service-oriented architecture for **dynamic page scaling**.
 
@@ -58,7 +58,7 @@ I'm constantly improving my expertise in **Advanced Operating Systems**, **Machi
     startup work. My username is ecookienumpy.
 ---
 
-## 📫 Get in Touch
+## Get in Touch
 
 - **Email**: egilic@umich.edu
 - **LinkedIn**: [linkedin.com/in/edin-gilic/](https://linkedin.com/in/edin-gilic/)
