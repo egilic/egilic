@@ -36,7 +36,7 @@ Welcome to my GitHub! I am a passionate **Software Engineer** with a focus on **
 
 ## Currently Learning
 
-I'm constantly improving my expertise in **Advanced Operating Systems**, **Machine Learning Algorithms**, and **Computer Architecture**. I enjoy tackling complex problems and building systems that push the boundaries of modern computing.
+I'm constantly learning as much as I can in **Advanced Operating Systems**, **Machine Learning Algorithms**, and **Physics**. I enjoy tackling complex problems and building systems that push the boundaries of modern computing.
 
 ---
 
