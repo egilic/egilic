@@ -64,6 +64,6 @@ I'm constantly learning as much as I can in **Advanced Operating Systems**, **Ma
 
 - **Email**: egilic@umich.edu
 - **LinkedIn**: [linkedin.com/in/edin-gilic/](https://linkedin.com/in/edin-gilic/)
-- **Portfolio**: Coming soon...
+- **Portfolio**: [https://edingilic.com/](https://edingilic.com/)
 
 ---
