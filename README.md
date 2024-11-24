@@ -1,6 +1,8 @@
 # Hello, world! I'm Edin Gilic
 
-Welcome to my GitHub! I am a passionate **Software Engineer** with a focus on **Systems** and **Machine Learning**. Currently, I'm honing my skills in **C++**, **Python**, and much more. I'm studying Computer Science and Business Administration at the **University of Michigan** with a minor in **Physics**. 🚀
+Welcome to my GitHub! I am a passionate **Software Engineer** with a focus on **Systems** and **Machine Learning**. I was originally a business major but I added a CS major sophomore year. Currently, I'm honing my skills in **C++**, **Python**, and much more. I'm studying Computer Science and Business Administration at the **University of Michigan** with a minor in **Physics**. 🚀
+
+Most of my repository's are private as I have been worked on mainly school projects and work-related projects that I cannot share publicly. But, I recently started working on more side-projects that are public! Enjoy.
 
 ---
 
